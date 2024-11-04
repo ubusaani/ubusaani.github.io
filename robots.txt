@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ubusaani.github.io/LkA/sitemap_index.txt
+Sitemap: https://ubusaani.github.io/OQZ/sitemap_index.txt
+Sitemap: https://ubusaani.github.io/kIj/sitemap_index.txt
+Sitemap: https://ubusaani.github.io/vUb/sitemap_index.txt
